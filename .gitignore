@@ -1,0 +1,5 @@
+training/logs/*
+text_recognizer/data/downloaded/*
+text_recognizer/data/processed/
+__pycache__
+.env
